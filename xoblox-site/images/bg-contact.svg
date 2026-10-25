@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" preserveAspectRatio="xMidYMid slice">
+  <circle cx="880" cy="480" r="60" fill="none" stroke="#A7ADB0" stroke-width="2" stroke-dasharray="7 10"/>
+  <circle cx="880" cy="480" r="120" fill="none" stroke="#A7ADB0" stroke-width="2" stroke-dasharray="10 10"/>
+  <circle cx="880" cy="480" r="180" fill="none" stroke="#A7ADB0" stroke-width="2" stroke-dasharray="13 10"/>
+  <circle cx="880" cy="480" r="240" fill="none" stroke="#A7ADB0" stroke-width="2" stroke-dasharray="16 10"/>
+  <circle cx="880" cy="480" r="300" fill="none" stroke="#A7ADB0" stroke-width="2" stroke-dasharray="19 10"/>
+  <circle cx="880" cy="480" r="360" fill="none" stroke="#A7ADB0" stroke-width="2" stroke-dasharray="22 10"/>
+  <circle cx="880" cy="480" r="420" fill="none" stroke="#A7ADB0" stroke-width="2" stroke-dasharray="25 10"/>
+  <circle cx="880" cy="480" r="480" fill="none" stroke="#A7ADB0" stroke-width="2" stroke-dasharray="28 10"/>
+  <circle cx="767.236885505691" cy="438.95758280091974" r="9" fill="#D5234E"/>
+  <circle cx="683.4035093706419" cy="342.34165527574896" r="9" fill="#D5234E"/>
+  <circle cx="584.5576740963377" cy="427.9055466999209" r="9" fill="#D5234E"/>
+  <circle cx="648.5964605128459" cy="204.22400047716798" r="9" fill="#D5234E"/>
+  <circle cx="499.350729444607" cy="302.5003300689063" r="9" fill="#D5234E"/>
+</svg>
